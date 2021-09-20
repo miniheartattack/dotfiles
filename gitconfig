@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benabdelhak1@hotmail.com
+	name = Abdel Ben
